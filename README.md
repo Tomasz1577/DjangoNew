@@ -1,0 +1,2 @@
+# DjangoNew
+Exercise
